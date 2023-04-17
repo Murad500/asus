@@ -1,0 +1,15 @@
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\bin\Debug\net7.0\ConsoleClass2.exe
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\bin\Debug\net7.0\ConsoleClass2.deps.json
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\bin\Debug\net7.0\ConsoleClass2.runtimeconfig.json
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\bin\Debug\net7.0\ConsoleClass2.dll
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\bin\Debug\net7.0\ConsoleClass2.pdb
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.csproj.AssemblyReference.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.AssemblyInfoInputs.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.AssemblyInfo.cs
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.csproj.CoreCompileInputs.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.dll
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\refint\ConsoleClass2.dll
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.pdb
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ConsoleClass2.genruntimeconfig.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleClass2\ConsoleClass2\obj\Debug\net7.0\ref\ConsoleClass2.dll

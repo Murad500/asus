@@ -1,0 +1,15 @@
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\bin\Debug\net7.0\ConsoleTask.exe
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\bin\Debug\net7.0\ConsoleTask.deps.json
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\bin\Debug\net7.0\ConsoleTask.runtimeconfig.json
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\bin\Debug\net7.0\ConsoleTask.dll
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\bin\Debug\net7.0\ConsoleTask.pdb
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.csproj.AssemblyReference.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.AssemblyInfoInputs.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.AssemblyInfo.cs
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.dll
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\refint\ConsoleTask.dll
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.pdb
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ConsoleTask.genruntimeconfig.cache
+C:\Users\hmzyv\Desktop\c#\visual\ConsoleTask\ConsoleTask\obj\Debug\net7.0\ref\ConsoleTask.dll
